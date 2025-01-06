@@ -1,7 +1,7 @@
 # Github Followers
 
 Ondemand dynamically generated mosaic banner using base64-encoded db-stored profile images of my active followers.\
-The banner updates live, reflecting changes in the follower data in real time.\
+The banner updates live, reflecting changes in the follower data in real time.
 
 
 I creativilly visualize my growing community and showcase live updates about my your followers.\
